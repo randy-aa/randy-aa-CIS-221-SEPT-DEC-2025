@@ -1,0 +1,16 @@
+<html>
+<head>
+ <title>Shecodes</title>
+</head>
+   <body>
+<h1>SheCodes</h1>
+<ul>
+   <li>Codes</li>
+   <li>Course</li>
+   <li>Stories</li>
+</ul>
+<hr></hr>
+<p class="info"><b>More Info</b></p>
+    </body>
+</html>
+   
