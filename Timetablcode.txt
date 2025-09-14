@@ -1,0 +1,525 @@
+<html>
+<head>
+  <title>BSc IT ICTM IS Timetable (Aug–Dec 2025)</title>
+</head>
+<body>
+
+  <h1>BSc IT ICTM IS Timetable<br>August–December 2025</h1>
+
+  <table border="12" cellspacing="0" cellpadding="10">
+    <tr>
+      <th>Day</th>
+      <th>Class</th>
+      <th>7–8</th>
+      <th>8–9</th>
+      <th>9–10</th>
+      <th>10–11</th>
+      <th>11–12</th>
+      <th>12–1</th>
+      <th>1–2</th>
+      <th>2–3</th>
+      <th>3–4</th>
+      <th>4–5</th>
+    </tr>
+
+    <Monday>
+    <tr>
+    <td rowspan="12">MON</td>
+    <td>CIT 1</td>
+    <td colspan="3">CIT 113</td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="3">CIR 107 LAB 5</td>
+    </tr>
+
+    <tr>
+    <td>CIM 1</td>
+    <td colspan="3">CIT 113</td>
+    <td colspan="3">CIT 115 LAB 5</td>
+    <td colspan="1"></td>
+    <td colspan="3"></td>
+    </tr>
+
+    <tr>
+    <td>CIS 1</td>
+    <td colspan="3">CIT 113</td>
+    <td colspan="3">CIT 115 LAB 5</td>
+    <td colspan="1"></td>
+    <td colspan="3">CIR 107 LAB 5</td>
+    </tr>
+
+    <tr>
+    <td>CIT 2</td>
+    <td colspan="3"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="3">CIR 205 LAB 5</td>
+    </tr>
+
+     <tr>
+     <td>CIM 2</td>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="1"></td>
+     <td colspan="3">CIM 217</td>  
+     </tr>
+
+     <tr>
+     <td>CIS 2</td>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="1"></td>
+     <td colspan="3"></td>
+     </tr>
+
+     <tr>
+     <td>CIT 3</td>
+     <td colspan="3">CIR 303 TB2</td>
+     <td colspan="3"></td>
+     <td colspan="1"></td>
+     <td colspan="2"></td>
+     <td colspan="1">CIT 323 LAB 3</td>
+     </tr>
+ 
+     <tr>
+     <td>CIM 3</td>
+     <td colspan="3">CIR 303 TB2</td>
+     <td colspan="3">CIM 307 LAB 2</td>
+     <td colspan="1"></td>
+     <td colspan="3"></td>
+     </tr>
+
+     <tr>
+     <td>CIS 3</td>
+     <td colspan="3">CIR 303 TB2</td>
+     <td colspan="1"></td>
+     <td colspan="3">CIS 321 TB3</td>
+     <td colspan="3">CIS 319 TB5</td>
+     </tr>
+
+     <tr>
+     <td>CIT 4</td>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="1"></td>
+     <td colspan="3"></td>
+     </tr>
+
+     <tr>
+     <td>CIM 4</td>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="1"></td>
+     <td colspan="3"></td>
+     </tr>
+
+     <tr>
+     <td>CIS 4</td>
+     <td colspan="1"></td>
+     <td colspan="3">CIS 405 TB5</td>
+     <td colspan="2"></td>
+     <td colspan="1"></td>
+     <td colspan="3"></td>
+     </tr>
+
+      
+    <Tuesday>
+    <tr>
+    <td rowspan="12">TUE</td>
+    <td>CIT 1</td>
+    <td colspan="3">CIT 11 LAB 5</td>
+    <td colspan="3">CIR 103 TB1</td>
+    <td colspan="4"></td>
+    </tr>
+
+    <tr>
+    <td>CIM 1</td>
+    <td colspan="2"></td>
+    <td colspan="3">CIM 117 TB3</td>
+    <td colspan="2"></td>
+    <td colspan="3">CIR 107 LAB 5</td>
+    </tr>
+
+    <tr>
+    <td>CIS 1</td>
+    <td colspan="3"></td>
+    <td colspan="3">CIR 205 LAB 5</td>
+    <td colspan="1"></td>
+    <td colspan="3"></td>
+    </tr>
+
+    <tr>
+    <td>CIT 2</td>
+    <td colspan="2"></td>
+    <td colspan="3">CIR 209 TB1</td>
+    <td colspan="2"></td>
+    <td colspan="3">CIR 205 LAB 5</td>
+    </tr>
+
+     <tr>
+     <td>CIM 2</td>
+     <td colspan="3"></td>
+     <td colspan="3">CIR 205 LAB 5</td>
+     <td colspan="3">CIR 209 TB1</td> 
+     <td colspan="1"></td> 
+     </tr>
+
+     <tr>
+     <td>CIS 2</td>
+     <td colspan="2"></td>
+     <td colspan="3">CIR 209 TB1</td>
+     <td colspan="2"></td>
+     <td colspan="3"></td>
+     </tr>
+
+     <tr>
+     <td>CIT 3</td>
+     <td colspan="4">CIR 301 LAB 2</td>
+     <td colspan="2">CIR 305 TB 5</td>
+     <td colspan="2"></td>
+     <td colspan="2"></td>
+     </tr>
+ 
+     <tr>
+     <td>CIM 3</td>
+     <td colspan="4">CIM 335 TB5</td>
+     <td colspan="3">CIM 327 TB1</td>
+     <td colspan="3"></td>
+     </tr>
+
+     <tr>
+     <td>CIS 3</td>
+     <td colspan="4">CIR 301 LAB 2</td>
+     <td colspan="2">CIR 305 TB5</td>
+     <td colspan="2"></td>
+     <td colspan="2"></td>
+     </tr>
+
+     <tr>
+     <td>CIT 4</td>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="1"></td>
+     <td colspan="3">CIR 405 TB1</td>
+     </tr>
+
+     <tr>
+     <td>CIM 4</td>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="1"></td>
+     <td colspan="3"></td>
+     </tr>
+
+     <tr>
+     <td>CIS 4</td>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="1"></td>
+     <td colspan="3">CIR 405 TB1</td>
+     </tr>
+
+
+    <Wednesday>
+    <tr>
+    <td rowspan="12">WED</td>
+    <td>CIT 1</td>
+    <td colspan="3"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="3"> CIT 107 HAR</td>
+    </tr>
+
+    <tr> 
+    <td>CIM 1</td>
+    <td colspan="3"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="3"> CIT 107 HAR</td>
+    </tr>
+
+    <tr>
+    <td>CIS 1</td>
+    <td colspan="3"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="3"> CIT 107 HAR</td>
+    </tr>
+
+    <tr>
+    <td>CIT 2</td>
+    <td colspan="1"></td>
+     <td colspan="3">CIT 211</td>
+     <td colspan="2"></td>
+     <td colspan="3"></td>
+    </tr>
+
+     <tr>
+     <td>CIM 2</td>
+      <td colspan="1"></td>
+     <td colspan="3">CIT 211</td>
+     <td colspan="2"></td>
+     <td colspan="3"></td>
+     </tr>
+
+     <tr>
+     <td>CIS 2</td>
+     <td colspan="1"></td>
+     <td colspan="3">CIT 211</td>
+     <td colspan="2"></td>
+     <td colspan="3"></td>
+     </tr>
+
+     <tr>
+     <td>CIT 3</td>
+     <td colspan="3">CIT 321 TB1</td>
+     <td colspan="2">CIT 327 TB1</td>
+     <td colspan="2"></td>
+     <td colspan="3">CIT 329</td>
+     </tr>
+ 
+     <tr>
+     <td>CIM 3</td>
+     <td colspan="3">CIM 313 TB1</td>
+     <td colspan="3"></td>
+     <td colspan="1"></td>
+     <td colspan="3">CIM 325 TB1</td>
+     </tr>
+
+     <tr>
+     <td>CIS 3</td>
+     <td colspan="3">CIS 329</td>
+     <td colspan="3"></td>
+     <td colspan="1"></td>
+     <td colspan="3"></td>
+     </tr>
+
+     <tr>
+     <td>CIT 4</td>
+     <td colspan="3">CIT 413 TB3</td>
+     <td colspan="3">CIM 413 TB3</td>
+     <td colspan="1"></td>
+     <td colspan="3">CIR 405 TB1</td>
+     </tr>
+
+     <tr>
+     <td>CIM 4</td>
+     <td colspan="3">CIM 415</td>
+     <td colspan="3"></td>
+     <td colspan="1"></td>
+     <td colspan="3">CIR 401</td>
+     </tr>
+
+     <tr>
+     <td>CIS 4</td>
+     <td colspan="2"></td>
+     <td colspan="3">CIS 401</td>
+     <td colspan="2"></td>
+     <td colspan="3">CIR 401</td>
+     </tr>
+    
+     
+<THURSDAY>
+    <tr>
+    <td rowspan="12">THUR</td>
+    <td>CIT 1</td>
+    <td colspan="3"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="3"></td>
+    </tr>
+
+    <tr> 
+    <td>CIM 1</td>
+    <td colspan="3"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="3"></td>
+    </tr>
+
+    <tr>
+    <td>CIS 1</td>
+    <td colspan="3"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="3"></td>
+    </tr>
+
+    <tr>
+    <td>CIT 2</td>
+    <td colspan="2"></td>
+     <td colspan="3">CIM 207 TB2</td>
+     <td colspan="2"></td>
+     <td colspan="3">CIT 211</td>
+    </tr>
+
+     <tr>
+     <td>CIM 2</td>
+      <td colspan="2"></td>
+     <td colspan="3">CIT 207 TB2</td>
+     <td colspan="2"></td>
+     <td colspan="3">CIT 211</td>
+     </tr>
+
+     <tr>
+     <td>CIS 2</td>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="1"></td>
+     <td colspan="3">CIT 211</td>
+     </tr>
+
+     <tr>
+     <td>CIT 3</td>
+     <td colspan="3"></td>
+     <td colspan="2"></td>
+     <td colspan="2"></td>
+     <td colspan="3"></td>
+     </tr>
+ 
+     <tr>
+     <td>CIM 3</td>
+     <td colspan="3">CIM 337</td>
+     <td colspan="3"></td>
+     <td colspan="1"></td>
+     <td colspan="3">CIM 331 TB1</td>
+     </tr>
+
+     <tr>
+     <td>CIS 3</td>
+     <td colspan="3">CIS 309</td>
+     <td colspan="1"></td>
+     <td colspan="2">CIS 325 TB1</td>
+     <td colspan="1"></td>
+     <td colspan="3">CIS 325 TB1</td>
+     </tr>
+
+     <tr>
+     <td>CIT 4</td>
+     <td colspan="3">CIT 421</td>
+     <td colspan="3">CIR 401 TB3</td>
+     <td colspan="1"></td>
+     <td colspan="3">CIM 417</td>
+     </tr>
+
+     <tr>
+     <td>CIM 4</td>
+     <td colspan="3"></td>
+     <td colspan="3">CIM 407 TB1</td>
+     <td colspan="1"></td>
+     <td colspan="3">CIM 429</td>
+     </tr>
+
+     <tr>
+     <td>CIS 4</td>
+     <td colspan="3"> CIS 407 TB2</td>
+     <td colspan="3"></td>
+     <td colspan="1"></td>
+     <td colspan="3">CIR 401</td>
+     </tr>
+
+     <FRIDAY>
+    <tr>
+    <td rowspan="12">FRI</td>
+    <td>CIT 1</td>
+    <td colspan="3"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="3"></td>
+    </tr>
+
+    <tr> 
+    <td>CIM 1</td>
+    <td colspan="3"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="3"></td>
+    </tr>
+
+    <tr>
+    <td>CIS 1</td>
+    <td colspan="3"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="3"></td>
+    </tr>
+
+    <tr>
+    <td>CIT 2</td>
+    <td colspan="2">CIR 203 TB2</td>
+     <td colspan="3">CIS 221 LAB 2,3,4,5</td>
+     <td colspan="2"></td>
+     <td colspan="3"></td>
+    </tr>
+
+     <tr>
+     <td>CIM 2</td>
+      <td colspan="2">CIR 203 TB2</td>
+     <td colspan="3">CIS 221 LAB 2,3,4,5</td>
+     <td colspan="2"></td>
+     <td colspan="3"></td>
+     </tr>
+
+     <tr>
+     <td>CIS 2</td>
+     <td colspan="3">CIR 203 TB2</td>
+     <td colspan="3">CIS 221 LAB 2,3,4,5</td>
+     <td colspan="1"></td>
+     <td colspan="3"></td>
+     </tr>
+
+     <tr>
+     <td>CIT 3</td>
+     <td colspan="3"></td>
+     <td colspan="2"></td>
+     <td colspan="2"></td>
+     <td colspan="3"></td>
+     </tr>
+ 
+     <tr>
+     <td>CIM 3</td>
+     <td colspan="3">CIM 411 TB2</td>
+     <td colspan="3">CIM 429</td>
+     <td colspan="1"></td>
+     <td colspan="3"></td>
+     </tr>
+
+     <tr>
+     <td>CIS 3</td>
+     <td colspan="3"></td>
+     <td colspan="1"></td>
+     <td colspan="2"></td>
+     <td colspan="1"></td>
+     <td colspan="3"></td>
+     </tr>
+
+     <tr>
+     <td>CIT 4</td>
+     <td colspan="3"></td>
+     <td colspan="3">CIR 423 TB2 TB3</td>
+     <td colspan="1"></td>
+     <td colspan="3"></td>
+     </tr>
+
+     <tr>
+     <td>CIM 4</td>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="1"></td>
+     <td colspan="3"></td>
+     </tr>
+
+     <tr>
+     <td>CIS 4</td>
+     <td colspan="3"></td>
+     <td colspan="3"></td>
+     <td colspan="1"></td>
+     <td colspan="3"></td>
+     </tr>
+
+
+
+  </table>
+
+</body>
+</html>
