@@ -1,0 +1,169 @@
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fashion Store</title>
+  <style>
+    body {
+      font-family: Verdana, Geneva, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: floralwhite;
+    }
+
+    header {
+      background-color: crimson;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 63px;
+    }
+
+    h2 {
+      color: darkslategray;
+      text-align: center;
+    }
+
+    .fashion-section {
+      padding: 20px;
+      text-align: center;
+    }
+
+    .fashion-item {
+      display: inline-block;
+      width: 200px;
+      margin: 15px;
+      padding: 10px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+      transition: transform 0.3s, background-color 0.3s;
+    }
+
+    .fashion-item img {
+      width: 100%;
+      border-radius: 8px;
+    }
+
+    .fashion-item:hover {
+      transform: scale(1.05);
+      background-color: lightyellow;
+    }
+
+    table {
+      margin: 20px auto;
+      border-collapse: collapse;
+      width: 80%;
+      background-color: white;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    th, td {
+      border: 1px solid lightgray;
+      padding: 10px;
+      text-align: center;
+    }
+
+    th {
+      background-color: blue;
+      color: white;
+    }
+
+    tr:hover {
+      background-color: lightcyan;
+    }
+
+    .benefits {
+      margin: 20px;
+      padding: 20px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .benefits li {
+      margin: 8px 0;
+      color: dimgray;
+    }
+
+    footer {
+      text-align: center;
+      padding: 10px;
+      background: black;
+      color: white;
+      margin-top: 20px;
+    }
+
+    footer:hover {
+      background-color: darkslategray;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to Fashion Store</h1>
+    <p><b>Your one-stop shop for trendy fashion items!</b></p>
+  </header>
+
+  <section class="fashion-section">
+    <h2>Our Fashion Collection</h2>
+    <div class="fashion-item">
+      <img src="https://via.placeholder.com/200x200" alt="Elegant Dress" />
+      <p>Elegant Dress</p>
+    </div>
+    <div class="fashion-item">
+      <img src="https://via.placeholder.com/200x200" alt="Stylish Shoes" />
+      <p>Stylish Shoes</p>
+    </div>
+    <div class="fashion-item">
+      <img src="https://via.placeholder.com/200x200" alt="Designer Bag" />
+      <p>Designer Bag</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Upcoming Sale Offer</h2>
+    <table>
+      <tr>
+        <th>Item</th>
+        <th>Discount</th>
+        <th>Sale Date</th>
+      </tr>
+      <tr>
+        <td>Dresses</td>
+        <td>30% Off</td>
+        <td>5th Oct 2025</td>
+      </tr>
+      <tr>
+        <td>Shoes</td>
+        <td>20% Off</td>
+        <td>10th Oct 2025</td>
+      </tr>
+      <tr>
+        <td>Bags</td>
+        <td>25% Off</td>
+        <td>15th Oct 2025</td>
+      </tr>
+    </table>
+  </section>
+
+  <section class="benefits">
+    <h2>Why Shop With Us?</h2>
+    <ul>
+      <li>High quality fashion items at competitive prices</li>
+      <li>Fast delivery to your doorstep</li>
+      <li>Exclusive discounts for loyal customers</li>
+    </ul>
+  </section>
+
+  <footer>
+    © 2025 Trendyz Fashion Store. All rights reserved.
+  </footer>
+
+</body>
+</html>
